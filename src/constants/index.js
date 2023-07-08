@@ -1,7 +1,6 @@
 import { 
-  people01, 
-  people02, 
-  people03, 
+  josephsemaan, 
+ 
   facebook, 
   instagram, 
   linkedin, 
@@ -12,7 +11,8 @@ import {
   dropbox, 
   send, 
   shield, 
-  star
+  star,
+  anthonyantounn
 } from "../assets";
 
 export const navLinks = [
@@ -40,21 +40,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Crypto Signals: Stay Ahead with Our Accurate Trading Signals",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Optimize Your Crypto Investments with Expert Guidance.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Take Control of Your Finances with a Balance Transfer.",
   },
 ];
 
@@ -63,26 +63,19 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    name: "Joseph Semaan",
     title: "Founder & Leader",
-    img: people01,
+    img: josephsemaan,
   },
   {
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+    name: "Anthony Antoun",
     title: "Founder & Leader",
-    img: people02,
+    img: anthonyantounn,
   },
-  {
-    id: "feedback-3",
-    content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
-  },
+
 ];
 
 export const stats = [
@@ -173,23 +166,19 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/ajsignals/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link:"https://www.facebook.com/profile.php?id=100083989669620",
   },
   {
     id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
-  },
-  {
-    id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.tiktok.com/@ajsignals0",
   },
+ 
 ];
 
 export const clients = [

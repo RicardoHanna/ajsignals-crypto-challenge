@@ -29,12 +29,10 @@ const Business = () => {
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>You do the business, <br className='sm:block hidden'/>we'll handle the money.</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          With the right credit card, 
-          you can improve your financial life by building credit,
-          earning rewards and saving money.
-          But with hundreds of credit cards on the market.
+        Welcome to AJSignal, your trusted partner in the world of cryptocurrency. At AJSignal, we believe in the transformative power of digital currency and are committed to helping individuals like you unlock its potential. With our accurate crypto signals, expert portfolio management, and insightful education, we provide the tools and knowledge you need to navigate the dynamic crypto market with confidence. 
         </p>
-        <Button styles='mt-10'/>
+        <a href="https://t.me/+akbcbJyFIHI45NDc0">
+        <Button styles='mt-10'/></a>
       </div>
       <div className={`${layout.sectionImg} flex-col`}>
         {features.map((feature, index) => (
